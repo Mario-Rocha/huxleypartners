@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "huxley-partners",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "port": 3000,
+      "cwd": "/Users/josecarlosrivera/Desktop/HOSPITAL_ASSETS/huxley-partners"
+    }
+  ]
+}
