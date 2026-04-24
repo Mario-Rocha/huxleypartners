@@ -4,7 +4,7 @@ import path from "path";
 
 const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || "huxley2026";
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
-const REPO = "Jose-Carlos-Rivera/huxley-partners";
+const REPO = "Mario-Rocha/huxleypartners";
 const FILE_PATH = "public/site-config.json";
 const BRANCH = "main";
 
