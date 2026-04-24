@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
-const GITHUB_REPO = "Jose-Carlos-Rivera/huxley-partners";
+const GITHUB_REPO = "Mario-Rocha/huxleypartners";
 const FILE_PATH = "public/site-config.json";
 
 export async function POST(req: NextRequest) {
